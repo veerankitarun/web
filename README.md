@@ -1,1 +1,1 @@
-# html basic registration 
+# Basic registration form
